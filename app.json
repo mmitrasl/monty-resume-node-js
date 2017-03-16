@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "Monty's Resume",
+  "description": "Monty's Resume as a Node.js app using Express 4",
+  "repository": "https://github.com/mmitrasl/monty-resume-node-js",
+  "logo": "",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
 }
