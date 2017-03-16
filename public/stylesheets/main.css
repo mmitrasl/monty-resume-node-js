@@ -1,3 +1,15 @@
 #mainbody {
-  margin: 50px 150px 30px 150px;
+  margin: 50px 100px 30px 100px;
+}
+
+#name_id {
+  background-color: yellow;
+  margin: 0px 0px 0px 0px;
+  padding: 5px 15px 5px 15px;
+}
+
+#experience {
+  background-color: green;
+  margin: 10px 0px 0px 0px;
+  padding: 5px 15px 5px 15px; 
 }
