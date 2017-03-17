@@ -1,5 +1,6 @@
 #mainbody {
   margin: 15px 0px 15px 0px;
+  padding-bottom: 25px;
 }
 
 h2 {
@@ -48,4 +49,10 @@ ul li  {
 
 h5 {
   line-height: 1.5 !important;
+}
+
+#footer {
+  color: #367DA2;
+  padding-top: 20px;
+  text-align:center;
 }
