@@ -26,6 +26,8 @@ hr {
 
 .well {
   margin-bottom: 1px !important;
+  border-width: 2px !important;
+  border-color: #c2d8e3 !important;
 }
 
 #experience {
