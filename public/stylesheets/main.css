@@ -4,10 +4,16 @@
 
 h2 {
   color: #367DA2 !important;
+  font-family: 'Montserrat', sans-serif; !important;
+}
+
+#mytitle {
+  font-family: 'Lato', sans-serif;
 }
 
 h4.heading {
   color: #367DA2;
+  font-family: 'Lato', sans-serif;
 }
 
 hr {
@@ -30,7 +36,8 @@ ul  {
  padding-left: 16px;   
 }
 ul li  {
- list-style-position: outside
+ list-style-position: outside;
+ font-family: 'Lato', sans-serif;
 }
 
 #exptime {
