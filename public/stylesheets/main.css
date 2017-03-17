@@ -2,14 +2,25 @@
   margin: 25px 0px 25px 0px;
 }
 
+hr.topdesign {
+  border-top: 3px solid #000;
+}
+
 #name_id {
-  background-color: yellow;
-  margin: 0px 0px 0px 0px;
-  padding: 5px 15px 5px 15px;
+  padding: 0px 15px 5px 15px;
 }
 
 #experience {
-  background-color: green;
-  margin: 10px 0px 0px 0px;
   padding: 5px 15px 5px 15px; 
+}
+
+ul  {
+ padding-left: 16px;   
+}
+ul li  {
+ list-style-position: outside
+}
+
+#exptime {
+  line-height: 0.85;
 }
