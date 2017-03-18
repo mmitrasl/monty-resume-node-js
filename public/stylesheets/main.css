@@ -3,18 +3,24 @@
   padding-bottom: 25px;
 }
 
-h2 {
+h2.myname {
   color: #367DA2 !important;
-  font-family: 'Montserrat', sans-serif; !important;
+  ffont-family: 'Lato', sans-serif;
 }
 
-#mytitle {
-  font-family: 'Lato', sans-serif;
-}
-
-h4.heading {
+h4.heading { /* date and city */
   color: #367DA2;
   font-family: 'Lato', sans-serif;
+}
+
+h4.mytitle {
+	font-family: 'Lato', sans-serif;
+}
+
+h5.mydegree { /* schools and degrees */
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
 }
 
 hr {
@@ -45,10 +51,6 @@ ul li  {
 
 #exptime {
   line-height: 0.85;
-}
-
-h5 {
-  line-height: 1.5 !important;
 }
 
 #footer {
