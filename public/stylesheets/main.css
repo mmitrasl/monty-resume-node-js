@@ -42,7 +42,8 @@ hr {
 }
 
 ul  {
- padding-left: 16px;   
+ padding-left: 16px;
+ padding-right: 10px;   
 }
 ul li  {
  list-style-position: outside;
