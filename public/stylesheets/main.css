@@ -5,7 +5,8 @@
 
 h2.myname {
   color: #367DA2 !important;
-  ffont-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
 }
 
 h4.heading { /* date and city */
