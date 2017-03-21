@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Monty's Bootstrap Resume</title>
+	<title>Monty's Resume</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -11,6 +11,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="scripts/fetch_resume_data.js"></script>
+	<!-- I made this resume after messing around with Freecodecamp and Heroku. It was
+			 mostly to teach myself a little bit of frontend muckery and some JSON shenanigans
+			 given my near beginner level of web development. I'm pretty happy how
+			 it turned out. Feel free to let me know what you think or how I can make it
+			 better -->
 </head>
 
 <body>
@@ -18,7 +23,8 @@
 <div class = "container-fluid">
 <div class ="jumbotron" id="mainbody">
 	
-	<div class id="name_id"> <!-- Header & Contact Info -->
+	<!-- Header & Contact Info -->
+	<div class id="name_id"> 
   	<hr>
     <h2 class="myname">Monty Mitra</h2>
     <a href="mailto:montymitra@gmail.com" class="btn btn-primary" role="button">
@@ -31,15 +37,19 @@
     	<i class="fa fa-medium"></i>
     </a>
   </div>
-    
-  <div class id="experandeduc"> <!-- Experience Section -->
+  
+  <!-- Experience Section -->  
+  <div class id="experandeduc"> 
   	<h4 class = "heading">EXPERIENCE</h4>
      
+    <!-- the experience is all rendered via javascript. Maybe not how you should really
+    		 do it, but this was all just to play with JS, JSON, etc. -->
     <div class="allexp"></div>
     
   </div>
-    	      
-  <div class id="experandeduc"> <!-- Education -->
+  
+  <!-- Education -->  	      
+  <div class id="experandeduc"> 
     <h4 class = "heading">EDUCATION</h4>
   
   	<div class="well well-sg">
@@ -54,6 +64,7 @@
   	</div>
 	</div>
   
+  <!-- little link to the github repo where all this goodness resides -->
   <div id="footer">
     <a href="https://github.com/mmitrasl/monty-resume-node-js" target ="_blank">
       <i class="fa fa-github fa-lg"></i>
