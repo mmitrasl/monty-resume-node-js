@@ -5,27 +5,29 @@
 		"title":"Consultant",
 		"dates":["2014", "PRESENT"],
 		"location":["San Francisco, CA"],
-		"experience":["Launched PostgreSQL database add-on product for Pivotal Cloud Foundry; created pricing, license agreements, and marketing collateral",
-									"Developed and rolled out new pricing for Engine Yard’s instance products",
-									"Redesigned and launched new website for Stark & Wayne, a cloud services consulting firm",
-									"Developed executive presentations for Medallia including four quarterly all-hands presentations; coached executives in performance styles and storytelling; presentations were graded highly by other executives",
-									"Created a series of Medallia engineering documents explaining complex technical topics to non-engineering teams; documentation regarded as essential primers for non-technical audiences",
-									"Produced, wrote, directed Medallia’s recruiting video; received over 25K hits across all channels; video noted to have helped attract high profile talent",
-									"Wrote datasheet and whitepaper explaining identity management service implemented on Amazon Web Services"],
-		"links":["https://network.pivotal.io/products/dingo-postgresql-for-pcf",
-						 "https://www.engineyard.com/pricing",
-						 "https://www.starkandwayne.com/",
-						 "http://www.medallia.com/",
-						 "",
-						 "https://www.youtube.com/watch?v=TpAvkvuVOFY",
-						 "https://www.dropbox.com/sh/amp8wdiqv3ayhsi/AAAzRDcXhmNJ7eqLr1pSKSbja?dl=0"],
-		"links_tags":[[1,8],
-									[6,6],
-									[5,5],
-									[5,1],
-									0,
-									[5,2],
-									[2,3]]
+		"experience":[
+			["Launched PostgreSQL database add-on product for Pivotal Cloud Foundry; created pricing, license agreements, and marketing collateral",
+			 "https://network.pivotal.io/products/dingo-postgresql-for-pcf",
+			 [1,8]],
+			["Developed and rolled out new pricing for Engine Yard’s instance products",
+			 "https://www.engineyard.com/pricing",
+			 [6,6]],
+			["Redesigned and launched new website for Stark & Wayne, a cloud services consulting firm",
+			 "https://www.starkandwayne.com/",
+			 [5,5]],
+			["Developed executive presentations for Medallia including four quarterly all-hands presentations; coached executives in performance styles and storytelling; presentations were graded highly by other executives",
+			 "http://www.medallia.com/",
+			 [5,1]],
+			["Created a series of Medallia engineering documents explaining complex technical topics to non-engineering teams; documentation regarded as essential primers for non-technical audiences",
+			 null,
+			 null],
+			["Produced, wrote, directed Medallia’s recruiting video; received over 25K hits across all channels; video noted to have helped attract high profile talent",
+			 "https://www.youtube.com/watch?v=TpAvkvuVOFY",
+			 [5,2]],
+			["Wrote datasheet and whitepaper explaining identity management service implemented on Amazon Web Services",
+			 "https://www.dropbox.com/sh/amp8wdiqv3ayhsi/AAAzRDcXhmNJ7eqLr1pSKSbja?dl=0",
+			 [2,3]]
+		]	
 	},
 	{
 		"company":"Lookout",
@@ -33,14 +35,109 @@
 		"title":"Sr. Product Manager",
 		"dates":["4/2013", "11/2013"],
 		"location":["San Francisco, CA"],
-		"experience":["Released first version of Lookout of Business product utilizing customer development methodology; outperformed project schedule",
-									"Interviewed customers ranging from SMB's to large enterprises; refined MVP scope; defined market positioning for SMB segment",
-									"Developed product roadmap; presented to executive team and company all-hands on continual basis"],
-		"links":["https://blog.lookout.com/blog/2013/11/19/lookout-for-business/",
-						 "",
-						 ""],
-		"links_tags":[[1,7],
-									0,
-									0]	
+		"experience":[
+			["Released first version of Lookout of Business product utilizing customer development methodology; outperformed project schedule",
+			 "https://blog.lookout.com/blog/2013/11/19/lookout-for-business/",
+			 [1,7]],
+			["Interviewed customers ranging from SMB's to large enterprises; refined MVP scope; defined market positioning for SMB segment",
+			 null,
+			 null],
+			["Developed product roadmap; presented to executive team and company all-hands on continual basis",
+			 null,
+			 null]
+		]
+	},
+	{
+		"company":"SportsLab",
+		"company_link":"http://sportslabhq.com/",
+		"title":"Co-Founder & Head of Product",
+		"dates":["2012", "2013"],
+		"location":["San Francisco, CA"],
+		"experience":[
+			["Built initial PlayBook iOS application from scratch; created specifications and wireframes; recruited part-time employees and full time contractors to complete app visual design and development",
+			 "https://itunes.apple.com/us/app/sportslab/id950961348?mt=8",
+			 [1,7]],
+			["Interviewed coaches and athletic trainers to build product MVP and long term product strategy",
+			 null,
+			 null],
+			["Co-founded company; pitched angel and VC investors",
+			 null,
+			 null]
+		]
+	},
+	{
+		"company":"Engine Yard",
+		"company_link":"https://www.engineyard.com/",
+		"title":"Sr. Product Manager",
+		"dates":["2011", "2012"],
+		"location":["San Francisco, CA"],
+		"experience":[
+			["Owned Engine Yard Cloud product responsible for 50% of company revenue; met all quarterly revenue growth goals",
+			 "https://www.engineyard.com/features",
+			 [1,11]],
+			["Led product marketing initiatives including creating content for analyst briefings and training new sales employees on product capabilities and features",
+				null,
+				null],
+			["Built product roadmap development process; ran bi-weekly executive steering committee meetings; trained new product managers",
+			 null,
+			 null],
+			["Launched Engine Yard Cloud Add-Ons marketplace; drove design with UX team, prioritized features with engineering team, and created business/partnership model with business development",			 
+			 "https://addons.engineyard.com/",
+			 [2,5]]					 
+		]		
+	},
+	{
+		"company":"Trilibis Mobile",
+		"company_link":"http://www.trilibis.com/",
+		"title":"Product Manager",
+		"dates":["2010", "2011"],
+		"location":["San Francisco, CA"],
+		"experience":[
+			["Directed implementation of security features for e-reader applications; worked with security architects to analyze piracy issues; reduced piracy by 60%",
+			 null,
+			 null],
+			["Coordinated international launch of e-reader applications; facilitated application- wide translations; supported international partners in Europe, China, and Japan",
+			 "http://usatoday.zinio.com/press/press-release.jsp?pressreleaseid=pr148150",
+			 [2,5]]
+		]
+	},
+	{
+		"company":"JibJab",
+		"company_link":"http://www.jibjab.com/",
+		"title":"Product Manager Intern",
+		"dates":["Summer 2007"],
+		"location":["Venice, CA"],
+		"experience":[
+			["Developed multiple product analytics reporting tools that support content and product decisions; supported strategic shift to virtual gift business model",
+			 null,
+			 null]
+		]			
+	},
+	{
+		"company":"Raytheon Company",
+		"company_link":"http://www.raytheon.com/",
+		"title":"Sr. Systems Engineer",
+		"dates":["2004", "2006"],
+		"location":["Falls Church, VA"],
+		"experience":[
+			["Led $1M defense engagement to deliver communication system for immediate military field use; developed extensive product requirements documentation; managed cross functional technology team and delivered system within constrained timeline",
+			 null,
+			 null]
+		]				
+	},
+	{
+		"company":"Eastman Kodak Co.",
+		"company_link":"http://www.kodak.com/",
+		"title":"Systems Engineer/Image Scientist",
+		"dates":["2001", "2001"],
+		"location":["Falls Church, VA", "Rochester, NY"],
+		"experience":[
+			["Built Kodak’s HDTV color management system (hardware + software); implemented complex color algorithm in hardware utilizing DSP theory; met aggressive goals and launch timeline; awarded at National Association of Broadcasters Conference",
+			 ["https://web.archive.org/web/20040803222424/http://www.kodak.com/US/en/corp/researchDevelopment/productFeatures/telecine2003.shtml", "http://www.creativeplanetnetwork.com/news/news-articles/nab-2003-best-show-award-winners/403940"],
+			 [[2,5],[25,7]]],
+			["Evangelized Kodak’s imaging solutions to government customers; successfully integrated systems at various military installations",
+			 null,
+			 null]
+		]
 	}
 ]}
