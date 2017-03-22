@@ -1,9 +1,11 @@
 var express = require('express');
 var app = express();
+var favicon = require('serve-favicon');
 
 app.set('port', (process.env.PORT || 5000));
 
 app.use(express.static(__dirname + '/public'));
+app.use(favicon(__dirname + '/public/favicon.ico'));
 
 // views is directory for all template files
 app.set('views', __dirname + '/views');
