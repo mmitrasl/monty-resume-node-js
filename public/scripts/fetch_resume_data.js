@@ -1,6 +1,6 @@
 //location of JSON. I used this free website since getJSON seems to require https
 //and Heroku charges for SSL.
-var resumeDataSource = 'https://api.myjson.com/bins/jsslf';
+var resumeDataSource = 'https://api.myjson.com/bins/11yrad';
 
 //returns string of employer name with an embedded URL.
 function renderCompanyName(name, url) {
