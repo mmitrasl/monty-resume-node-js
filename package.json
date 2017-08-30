@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Monty's Resume",
   "engines": {
-    "node": "6.10.0"
+    "node": "6.11.1"
   },
   "main": "index.js",
   "scripts": {
