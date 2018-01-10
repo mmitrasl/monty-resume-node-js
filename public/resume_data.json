@@ -6,6 +6,9 @@
 		"dates":["2014", "PRESENT"],
 		"location":["San Francisco, CA"],
 		"experience":[
+			["Creating documentation guides to help customers migrate their Atlassian applications from a single server deployment to a multi-node cluster",
+			 "https://confluence.atlassian.com/enterprise/best-practices-for-atlassian-data-center-892801350.html",
+			 [2,2]],
 			["Launched PostgreSQL database add-on product for Pivotal Cloud Foundry; created pricing, license agreements, and marketing collateral",
 			 "https://network.pivotal.io/products/dingo-postgresql-for-pcf",
 			 [1,8]],
@@ -37,7 +40,7 @@
 		"location":["San Francisco, CA"],
 		"experience":[
 			["Released first version of Lookout of Business product utilizing customer development methodology; outperformed project schedule",
-			 "https://blog.lookout.com/blog/2013/11/19/lookout-for-business/",
+			 "https://techcrunch.com/2013/11/19/lookout-debuts-a-mobile-security-suite-for-business/",
 			 [1,7]],
 			["Interviewed customers ranging from SMB's to large enterprises; refined MVP scope; defined market positioning for SMB segment",
 			 null,
@@ -87,8 +90,8 @@
 		]		
 	},
 	{
-		"company":"Trilibis Mobile",
-		"company_link":"http://www.trilibis.com/",
+		"company":"Zinio",
+		"company_link":"http://www.zinio.com/",
 		"title":"Product Manager",
 		"dates":["2010", "2011"],
 		"location":["San Francisco, CA"],
@@ -99,6 +102,24 @@
 			["Coordinated international launch of e-reader applications; facilitated application- wide translations; supported international partners in Europe, China, and Japan",
 			 "http://usatoday.zinio.com/press/press-release.jsp?pressreleaseid=pr148150",
 			 [2,5]]
+		]
+	},
+	{
+		"company":"Trilibis Mobile",
+		"company_link":"http://www.trilibis.com/",
+		"title":"Product Manager",
+		"dates":["2008", "2010"],
+		"location":["San Mateo, CA"],
+		"experience":[
+			["Secured new business by working with major US wireless carriers and content providers; drafted and negotiated contract terms; generated over $300K in revenue",
+			 null,
+			 null],
+			["Launched mobile products for AT&T American Idol, Sprint NFL, and NASCAR; responsibilities included product and marketing requirements documentation, partner management, and management of international development teams",
+			 null,
+			 null]
+			[" Analyzed and presented data to support entering Latin American market; worked with VP of Business Development to identify market entry strategies and distribution partners",
+			 null,
+			 null]
 		]
 	},
 	{
