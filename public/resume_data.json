@@ -6,18 +6,19 @@
 		"dates":["2014", "PRESENT"],
 		"location":["San Francisco, CA"],
 		"experience":[
-			["Creating documentation guides to help customers migrate their Atlassian applications from a single server deployment to a multi-node cluster",
+			["Created written guides to articulate the value and process for customers scaling their Atlassian applications on a multi-node cluster; collaborated with product, engineering, support, technical account management, and customer success to identify, evaluate, write, and edit each topic",
 			 "https://confluence.atlassian.com/enterprise/best-practices-for-atlassian-data-center-892801350.html",
-			 [2,2]],
+			 [1,3]],
+			["Redesigned and launched new website for Stark & Wayne, LLC, a cloud services consulting firm; refocused messaging to fit the B2B space",
+			 "https://www.starkandwayne.com/",
+			 [5,5]],			 
 			["Launched PostgreSQL database add-on product for Pivotal Cloud Foundry; created pricing, license agreements, and marketing collateral",
 			 "https://network.pivotal.io/products/dingo-postgresql-for-pcf",
-			 [1,8]],
+			 null,
+			 null],
 			["Developed and rolled out new pricing for Engine Yard’s instance products",
 			 "https://www.engineyard.com/pricing",
 			 [6,6]],
-			["Redesigned and launched new website for Stark & Wayne, a cloud services consulting firm",
-			 "https://www.starkandwayne.com/",
-			 [5,5]],
 			["Developed executive presentations for Medallia including four quarterly all-hands presentations; coached executives in performance styles and storytelling; presentations were graded highly by other executives",
 			 "http://www.medallia.com/",
 			 [5,1]],
@@ -29,7 +30,10 @@
 			 [5,2]],
 			["Wrote datasheet and whitepaper explaining identity management service implemented on Amazon Web Services",
 			 "https://www.dropbox.com/sh/amp8wdiqv3ayhsi/AAAzRDcXhmNJ7eqLr1pSKSbja?dl=0",
-			 [2,3]]
+			 [2,3]],
+			["Created and wrote support knowledge base for Soha (acquired by Akamai) to onboard new customers",
+			 "https://web.archive.org/web/20170131192519/https://soha.zendesk.com/hc/en-us/categories/200272308-Knowledge-Base",
+			 [4,3]
 		]	
 	},
 	{
@@ -116,7 +120,7 @@
 			 null],
 			["Launched mobile products for AT&T American Idol, Sprint NFL, and NASCAR; responsibilities included product and marketing requirements documentation, partner management, and management of international development teams",
 			 null,
-			 null]
+			 null],
 			[" Analyzed and presented data to support entering Latin American market; worked with VP of Business Development to identify market entry strategies and distribution partners",
 			 null,
 			 null]
